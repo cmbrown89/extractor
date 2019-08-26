@@ -4,7 +4,7 @@
 """
 
 # Setup the name of our extractor.
-EXTRACTOR_NAME = ""
+EXTRACTOR_NAME = "RGB_Indices"
 
 # Name of scientific method for this extractor. Leave commented out if it's unknown
 #METHOD_NAME = ""
@@ -13,13 +13,13 @@ EXTRACTOR_NAME = ""
 VERSION = "1.0"
 
 # The extractor description
-DESCRIPTION = ""
+DESCRIPTION = "RGB Indices"
 
 # The name of the author of the extractor
-AUTHOR_NAME = ""
+AUTHOR_NAME = "Clairessa Brown"
 
 # The email of the author of the extractor
-AUTHOR_EMAIL = ""
+AUTHOR_EMAIL = "clairessabrown@email.arizona.edu"
 
 # Reposity URI
-REPOSITORY = ""
+REPOSITORY = "https://github.com/cmbrown89/extractor"

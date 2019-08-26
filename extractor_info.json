@@ -1,0 +1,21 @@
+{
+    "@context": "http://clowder.ncsa.illinois.edu/contexts/extractors.jsonld",
+    "name": "RGB_Indices",
+    "version": "1.0",
+    "description": "RGB Indices",
+    "author": "Clairessa Brown <clairessabrown@email.arizona.edu>",
+    "contributors": [],
+    "contexts": [],
+    "repository": {
+        "repType": "git",
+        "repUrl": "https://github.com/cmbrown89/extractor"
+    },
+    "process": {
+        "dataset": [
+            "file.added"
+        ]
+    },
+    "external_services": [],
+    "dependencies": [],
+    "bibtex": []
+}
